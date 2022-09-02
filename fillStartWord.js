@@ -1,6 +1,8 @@
-const { template } = require('@babel/core')
+// const { template } = require('@babel/core')
 
 function fillStartWord(startWord, word) {
-  //code here
+  
 }
-module.exports = fillStartWord
+console.log("55555555555")
+// module.exports = fillStartWord
+
